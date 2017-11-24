@@ -1,3 +1,9 @@
+"""Author: Ivan Gerardo Suarez Luna
+   Date: 23/11/2017
+   Description: In this project this class now shares all
+   its attributes among its various instances"""
+
+
 class Borg:
     """Borg pattern making the class attributes global"""
     _shared_data = {} # Attribute dictionary

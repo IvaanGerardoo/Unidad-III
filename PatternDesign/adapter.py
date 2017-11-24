@@ -1,3 +1,9 @@
+"""Author: Ivan Gerardo Suarez Luna
+   Date: 23/11/2017
+   Description: In this project he shows us
+   how the koreans and british people greet"""
+
+
 class Korean:
     """Korean speaker"""
 
@@ -40,8 +46,8 @@ korean = Korean()
 british = British()
 
 # Append the object to the objetct list
-objects.append(Adapter(korean, speak=korean.speak_korean()))
-objects.append(Adapter(british, speak=british.speak_english()))
+objects.append(Adapter(korean, speak=korean.speak_korean))
+objects.append(Adapter(british, speak=british.speak_english))
 
 for obj in objects:
     print("{} says '{}' \n".format(obj.name, obj.speak()))

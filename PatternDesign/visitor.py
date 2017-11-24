@@ -1,3 +1,9 @@
+"""Author: Ivan Gerardo Suarez Luna
+   Date: 23/11/2017
+   Description: In this project shows us by whom
+   the house is beging worked."""
+
+
 class House(object): #The class being visited 
 	def accept(self, visitor):
 		"""Interface to accept a visitor"""

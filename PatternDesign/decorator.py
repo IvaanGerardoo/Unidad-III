@@ -1,3 +1,9 @@
+"""Author: Ivan Gerardo Suarez Luna
+   Date: 23/11/2017
+   Description: In this project makes the decorator
+   transparent in terms of its name and docstring"""
+
+
 from functools import wraps
 
 def make_blink(funcion):

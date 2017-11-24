@@ -1,3 +1,11 @@
+"""Author: Ivan Gerardo Suarez Luna
+   Date: 23/11/2017
+   Description: In this project make the proxy:
+   Artist produce until Producer is available,
+   change the state to occupied,
+   make the Producer produce"""
+
+
 import time
 
 class Producer:

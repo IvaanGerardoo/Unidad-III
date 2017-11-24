@@ -1,3 +1,9 @@
+"""Author: Ivan Gerardo Suarez Luna
+   Date: 23/11/2017
+   Description: In this project it shows us the strategy
+   that is beging used. """
+
+
 import types #Import the types module
 
 class Strategy:

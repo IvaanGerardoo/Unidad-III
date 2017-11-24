@@ -1,3 +1,9 @@
+"""Author: Ivan Gerardo Suarez Luna
+   Date: 23/11/2017
+   Description: In this project it gives us a temperature view,
+   and at what temperature. """
+
+
 class Subject(object): #Represents what is being 'observed'
 
 	def __init__(self):

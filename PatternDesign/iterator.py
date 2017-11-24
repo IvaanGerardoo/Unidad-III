@@ -1,3 +1,9 @@
+"""Author: Ivan Gerardo Suarez Luna
+   Date: 23/11/2017
+   Description: In this project return a
+   containing numbers in German"""
+
+
 def count_to(count):
 	"""Our iterator implementation"""
 	

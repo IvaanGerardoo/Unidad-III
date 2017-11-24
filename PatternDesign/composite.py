@@ -1,3 +1,9 @@
+"""Author: Ivan Gerardo Suarez Luna
+   Date: 23/11/2017
+   Description: In this project iterate through the
+   child objects and invoke their component"""
+
+
 class Component(object):
 	"""Abstract class"""
 

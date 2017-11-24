@@ -1,3 +1,9 @@
+"""Author: Ivan Gerardo Suarez Luna
+   Date: 23/11/2017
+   Description: In this project we get a
+   simple greeting from a dog and cat"""
+
+
 class Dog:
 
 	"""A simple dog class"""

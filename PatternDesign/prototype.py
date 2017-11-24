@@ -1,3 +1,9 @@
+"""Author: Ivan Gerardo Suarez Luna
+   Date: 23/11/2017
+   Description: In this project Clone a registered
+   object and update its attributes"""
+
+
 import copy
 
 class Prototype:
@@ -25,7 +31,7 @@ class Car:
         self.color = "Red"
         self.options = "Ex"
 
-        def __str__(self):
+    def __str__(self):
             return '{} | {} | {}'.format(self.name, self.color, self.options)
 
 c = Car()

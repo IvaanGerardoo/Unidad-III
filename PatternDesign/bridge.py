@@ -1,3 +1,8 @@
+"""Author: Ivan Gerardo Suarez Luna
+   Date: 23/11/2017
+   Description: In this project implementation-specific abstraction"""
+
+
 class DrawingAPIOne(object):
 	"""Implementation-specific abstraction: concrete class one"""
 	def draw_circle(self, x, y, radius):

@@ -1,3 +1,10 @@
+"""Author: Ivan Gerardo Suarez Luna
+   Date: 23/11/2017
+   Description: In this project it tells us what pet is,
+   as it says hello and the food he eats."""
+
+
+
 class Dog:
 	"""One of the objects to be returned"""
 

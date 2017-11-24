@@ -1,3 +1,9 @@
+"""Author: Ivan Gerardo Suarez Luna
+   Date: 23/11/2017
+   Description: In this project we provide parts and tools
+   to work on the pieces."""
+
+
 class Director():
     """Director"""
     def __init__(self, builder):
